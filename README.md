@@ -93,7 +93,7 @@
 
 | Projet / Project | Domaine / Field | Description | Langage / Language | Auteur / Author |
 |---|---|---|---|---|
-| *Kynetic* | Base de code / Code Base | Kynetic est une base de projet backend construite avec NestJS, Prisma 6 et PostgreSQL. Elle fournit dès le départ tout ce qu'il faut pour démarrer un nouveau projet sans repartir de zéro : authentification complète (email & Google), gestion des rôles, sécurité de base et connexion à la base de données. / Kynetic is a code base for backend project built with NestJS, Prisma and PostgrSQL. It provides at the beginning avery thing you need to start a backend project, no need to start at zero: complet authentication (email & Google), roles management, security and database connexion. | Français / French | [B. Hermann NANA](https://github.com/rmannnana/) |
+| [Kynetic](https://github.com/rmannnana/kynetic) | Base de code / Code Base | Kynetic est une base de projet backend construite avec NestJS, Prisma 6 et PostgreSQL. Elle fournit dès le départ tout ce qu'il faut pour démarrer un nouveau projet sans repartir de zéro : authentification complète (email & Google), gestion des rôles, sécurité de base et connexion à la base de données. / Kynetic is a code base for backend project built with NestJS, Prisma and PostgrSQL. It provides at the beginning avery thing you need to start a backend project, no need to start at zero: complet authentication (email & Google), roles management, security and database connexion. | TypeScript / JavaScript | [B. Hermann NANA](https://github.com/rmannnana/) |
 
 ---
 
