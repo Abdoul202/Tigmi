@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
+[![Website](https://img.shields.io/badge/Website-Tigmi-2997ff?style=flat-square&logo=googlechrome&logoColor=white)](https://arielshadrac.github.io/Tigmi/)
 
 ---
 
