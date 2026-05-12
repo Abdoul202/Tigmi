@@ -55,7 +55,7 @@
 
 | Projet / Project | Domaine / Field | Description | Langage / Language | Auteur / Author |
 |---|---|---|---|---|
-| *(premier projet ? [proposez le vôtre](CONTRIBUTING.md) / first project? [propose yours](CONTRIBUTING.md))* | | | | |
+| [aws-solution-architect-quiz](https://github.com/abdoulfataoh/aws-solution-architect-quiz) | Cloud / Formation | Application web interactive proposant 684+ questions pour préparer la certification AWS Certified Solutions Architect. / Interactive web app with 684+ questions to prepare for the AWS Certified Solutions Architect exam. | Vue, JavaScript | abdoulfataoh |
 
 ---
 
@@ -83,6 +83,7 @@
 | Projet / Project | Domaine / Field | Description | Langage / Language | Auteur / Author |
 |---|---|---|---|---|
 | [MaskMe](https://github.com/k13lucien/maskme) | Data Privacy & Compliance | Une bibliothèque Python agnostique pour le Data masking. Conçue pour transformer les données sensibles (structurées ou non) en données anonymes exploitables, garantissant ainsi le respect des règlements sur la protection des données à caractère personnel (CIL, Loi n°001-2021/AN) tout en préservant l'intégrité des flux de données. | Python | [Lucien Kiemde](https://github.com/k13lucien) |
+| [lefaso-net-scraper](https://github.com/abdoulfataoh/lefaso-net-scraper) | Data Collection | Bibliothèque Python robuste pour extraire articles et commentaires de lefaso.net, le principal portail d'information en ligne du Burkina Faso. Disponible sur PyPI. / Robust Python library to extract articles and comments from lefaso.net, Burkina Faso's leading online news portal. Available on PyPI. | Python | abdoulfataoh |
 
 ---
 
@@ -104,7 +105,8 @@
 
 | Projet / Project | Domaine / Field | Description | Langage / Language | Auteur / Author |
 |---|---|---|---|---|
-| *(premier projet ? [proposez le vôtre](CONTRIBUTING.md) / first project? [propose yours](CONTRIBUTING.md))* | | | | |
+| [fasoarzeka](https://github.com/mzeba/fasoarzeka) | Paiement mobile / Mobile Payment | Client Python non officiel pour l'API de paiement mobile FASO ARZEKA au Burkina Faso. Production-ready, avec retry automatique, réauthentification automatique, gestion des erreurs et couverture de tests >90%. / Unofficial Python client for the FASO ARZEKA mobile payment API in Burkina Faso. Production-ready, with automatic retry, automatic re-authentication, error handling, and >90% test coverage. | Python | mzeba |
+
 
 ---
 
@@ -171,7 +173,7 @@
 
 | Projet / Project | Domaine / Field | Description | Langage / Language | Auteur / Author |
 |---|---|---|---|---|
-| *(premier projet ? [proposez le vôtre](CONTRIBUTING.md) / first project? [propose yours](CONTRIBUTING.md))* | | | | |
+| [oauth2](https://github.com/abdoulfataoh/oauth2) | Authentification | Serveur d'authentification FastAPI implémentant le flux OAuth2 Authorization Code avec PKCE, OTP, gestion du consentement et panel d'administration. / FastAPI authentication server implementing OAuth2 Authorization Code Flow with PKCE, OTP verification, consent management, and admin panel. | Python | abdoulfataoh |
 
 ---
 
