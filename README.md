@@ -71,6 +71,7 @@
 | [EyeTrace](https://github.com/Xcept-Health/eyetrace) | Neuroscience | Bibliothèque Python de métriques oculaires et suivi du regard / Python package for eye-tracking and ocular metrics. | Python | [Xcept-Health](https://github.com/Xcept-Health) |
 | [MentalChecker](https://github.com/Xcept-Health/MentalChecker) | Mental health | Outil de dépistage et suivi en santé mentale pour le Burkina Faso./ Mental health screening and tracking tool for Burkina Faso. | TypeScript, React | [Xcept-Health](https://github.com/Xcept-Health) |
 | [Wepisia](https://github.com/Xcept-Health/wepisia) | Epidemiology | Plateforme web d'épidémiologie, équivalent africain d'OpenEpi./ Web-based epidemiology platform, African equivalent of OpenEpi. | TypeScript, React | [Xcept-Health](https://github.com/Xcept-Health) |
+| [Willigon](https://github.com/Xcept-Health/willigon) | Neuroscience / rPPG | Application web de photopléthysmographie à distance (rPPG) mesurant la fréquence cardiaque via webcam avec visualisation temps réel sur le Polygone de Willis (2D SVG + 3D GLB). / Browser-based remote photoplethysmography (rPPG) app measuring heart rate from a webcam with real-time animation of the Circle of Willis (2D SVG + 3D GLB). | Python, TypeScript, React | [Xcept-Health](https://github.com/Xcept-Health) |
 
 ---
 
